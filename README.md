@@ -21,7 +21,7 @@ Our roots are in corporate and municipal finance, credit analysis, and financial
 
 ---
 
-### 🛠️ What I build
+### 🛠️ What we built
 
 | Project | What it does |
 |---|---|
